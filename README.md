@@ -55,7 +55,7 @@
 | [TP_COMPILATION](https://github.com/hadjafatima/TP_COMPILATION) | Compilation : analyse lexicale et automates (Python) |
 
 ## 📫 Mes contacts
-- LinkedIn : 
+- LinkedIn : https://www.linkedin.com/in/hadja-fatoumata-dram%C3%A9-4b140338b
 - Email : dramehadjafatoumata6@gmail.com
 - Email étudiant : hadja.drame@etu.unilim.fr
 
